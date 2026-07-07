@@ -1,3 +1,8 @@
+
+#  HR Analytics Dashboard
+
+![HR Analytics Dashboard](dashboard.png)
+
 # HR Analytics Dashboard
 
  About the Project
